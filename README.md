@@ -59,7 +59,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 ## Best Report -
 
-[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=ridoy-hablu&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/harun181/Java-Project](https://github.com/ridoy-hablu/ridoy-hablu))
+
 
 
 <p align="left">
