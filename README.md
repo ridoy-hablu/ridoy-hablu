@@ -1,4 +1,4 @@
-![I am ridoy-hablu](https://github.com/ridoy-hablu/ridoy-hablu/blob/main/code.png)
+![I am ridoy-khan-2006](https://github.com/ridoy-hablu/ridoy-hablu/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm RIDOY HOSSEN(RAFI)</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
